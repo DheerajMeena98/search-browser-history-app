@@ -97,6 +97,8 @@ body {
 }
 .time-accessed-label {
   width: 25%;
+  color: #64748b;
+  font-weight: bold;
 }
 
 .logo-img {
@@ -107,11 +109,14 @@ body {
 
 .title-label {
   width: 100%;
+  color: #475569;
+  font-weight: bold;
 }
 
 .domain-url-label {
   margin-top: 5px;
   width: 100%;
+  color: #64748b;
 }
 
 .delete-icon {
